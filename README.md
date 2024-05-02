@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # to_do_app
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # News-app
 >>>>>>> 76ef7055c965d62a872f25cfdeb5ab9fa5745167
+=======
+# TODO
+>>>>>>> eeca8cce9e5181eb88d113a275c242b24ddca059
